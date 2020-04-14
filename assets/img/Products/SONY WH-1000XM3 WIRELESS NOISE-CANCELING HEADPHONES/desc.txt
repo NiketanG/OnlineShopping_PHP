@@ -1,0 +1,49 @@
+NEXT-LEVEL NOISE CANCELLATION
+An update to the acclaimed WH-10000XM2, the Sony WH1000XM3 headphones offer crisp, high-resolution audio in a sleek wireless design. Whether you’re in a crowd, on the train, or in any other noisy environment, Sony’s digital noise-canceling technology actively cuts out unwanted sound. The Adaptive Sound Control feature works with the QN1 noise-canceling processor to detect activities like traveling, walking, and waiting, and adjusts the ambient sound settings accordingly. Unique Atmospheric Pressure Optimizing technology delivers optimal sound at high altitudes. In addition to Bluetooth, the headphones have an LDAC that transmits approximately three times more data than Bluetooth for exceptional clarity. Thanks to the built-in mic and onboard controls, you can take calls and control your music without taking your phone out of your pocket.
+
+SPECS
+Model number: WH-1000XM3
+General 
+
+Headphone Type: Closed, Dynamic
+Driver Unit: 1.57 in (3.9 cm), Dome Type (Ccaw Voice Coil)
+Magnet: Neodymium
+Impedance: 47 Ohm (1 Khz) (When Connecting Via The Headphone Cable With The Unit Turned On), 16 Ohm (1 Khz) (When Connecting Via The Headphone Cable With The Unit Turned Off)
+Diaphragm: Aluminum Coated Lcp
+Frequency Response: 4–40,000 Hz
+Frequency Response (Active Operation): 4–40,000 Hz
+Frequency Response (Bluetooth® Communication): 20–20,000 Hz (44.1 Khz Sampling), 20–40,000 Hz (Ldac 96 Khz Sampling, 990 Kbps)
+Sensitivities (Db/Mw): 104.5 Db / Mw (1 Khz) (When Connecting Via The Headphone Cable With The Unit Turned On), 101 Db / Mw (1 Khz) (When Connecting Via The Headphone Cable With The Unit Turned Off)
+Volume Control: Touch Sensor
+Wearing Style: Circumaural
+NFC: Yes
+DSEE HX: Yes
+Passive Operation: Yes
+Battery
+
+Battery Charge Time: Approx. 3 Hours (Full Charge)
+Battery Charge Method: USB
+Battery Life (Continuous Music Playback Time): Max. 30 Hours (NC On), Max. 38 Hours (NC Off)
+Battery Life (Waiting Time): Max. 30 Hours (NC On), Max. 200 Hours (NC Off)
+Bluetooth 
+
+Bluetooth: 4.2
+Effective Range: (Line Of Sight) Approx. 30 ft (10 M)
+Frequency Range: 2.4 Ghz Band (2.4–2.4835 Ghz)
+Profile: A2DP, AVRCP, HFP, HSP
+Supported Audio Formats: SBC, AAC, APTX, APTX HD, LDAC
+Supported Content Protection: SCMS-T
+Noise Canceling
+
+Noise Canceling On/Off Switch: Yes
+Personal NC Optimizer: Yes
+Atmospheric Pressure Optimizing: Yes
+Ambient Sound Mode: Yes
+Quick Attention: Yes
+Physical
+
+Plug: Gold-plated L-shaped Stereo Mini Plug
+Inputs: Stereo Mini Jack
+Cord Type: Single-sided (Detachable)
+Cord Length: 3.94 ft (1.2 m)
+Weight: 9 oz (255 g)

@@ -1,0 +1,67 @@
+POWERFUL 2-IN-1 LAPTOP
+A stylish and functional solution to your everyday computing needs, the Microsoft Surface 2 touchscreen laptop can tackle tasks of all sizes. It features a 13.5-inch multi-touch display with PixelSense technology and an Intel UHD 620 graphics card that delivers crisp, stunning visuals. The Windows 10 Home operating system is powered by Intel's 8th-generation i5-8250U quad-core processor, which produces speeds up to 1.6 GHz. Along with an 8-gigabyte LPDDR3 memory card, the laptop comes with a 256-gigabyte SSD drive that offers plenty of space to store your documents, music, and movies. The lithium-ion battery provides up to 14.5 hours of video playback on a single charge, giving you the freedom to go virtually anywhere without having to bring a charger.
+
+FEATURES
+1.6 GHz Intel core i5-8250U quad-core processor
+8GB LPDDR3 RAM
+256GB SSD
+2256 x 1504 PixelSense touchscreen
+Integrated Intel UHD graphics 620
+Wi-Fi 5 (802.11ac)
+Bluetooth 4.1
+USB Type-A
+Mini DP
+Surface Connect
+Alcantara-fabric-covered keyboard
+Windows 10 Home
+
+SPECS
+Model Number: DAG-00114
+Performance
+
+Operating System: Windows 10 Home
+Memory: 8 GB LPDDR3
+CPU: 1.6 GHz Intel Core i5-8250U Quad-Core
+GPU: Intel UHD Graphics 620
+Storage: SSD 256 GB
+Sensors: Accelerometer, Ambient light sensor, Gyroscope
+Display
+
+Size: 13.5 in (34.2 cm)
+Aspect Ratio: 3:2
+Resolution: 2256 x 1504p
+Touchscreen: Yes
+Refresh Rate: 60 Hz
+Inputs/Outputs
+
+Ports: USB Type-A (USB 3.1 Gen 1)
+Display: Mini DisplayPort 
+Audio: ⅛ in (3.5 mm) headphone/microphone input/output
+Built-In Speakers: 2
+Built-In Microphones: 1
+Communication
+
+Wi-Fi: Wi-Fi 5 (802.11ac)
+Bluetooth: 4.1
+Webcam: User-facing 720p
+Battery
+
+Battery Type: Lithium-Ion Polymer (LiPo)
+Watt Hours: 45.2 Wh
+Cells: 4
+Maximum Runtime: 14.5 Hours
+Keyboard & Mouse
+
+Keyboard: Notebook Keyboard
+Pointing Device: Touchpad
+Physical
+
+Security: Infineon TPM Software Professional Package
+Dimensions: 12.1 x 8.8 x 0.6 in (30.7 x 22.4 x 1.5 cm)
+Weight: 2.8 lbs (1.2 kg)
+
+INCLUDED
+Power supply
+Quick start guide
+Safety and warranty documents 
+Microsoft's 1-year limited hardware warranty 
